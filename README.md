@@ -1,0 +1,1 @@
+Machine Learning project focused on analyzing the performance of the pre-trained YOLOv8 model for the task of recognizing specific classes of foods and estimating their calories, all through an easy and friendly GUI.
